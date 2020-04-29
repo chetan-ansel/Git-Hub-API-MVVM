@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Game Changes</string>
+    <string name="loading_data">Load Data .....</string>
+    <string name="body">body text sample</string>
+    <string name="error">Error Loading Data ....</string>
+    <string name="comment_is_not_available">Comment is not Available</string>
+</resources>
